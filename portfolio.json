@@ -14,6 +14,7 @@
     "my_projects": [
       {
         "project_name": "Tiamo Egypt",
+        "subtitle": "E-Commerce App for women clothes brand",
         "description": "E-Commerce App for selling women clothes online",
         "appstore_link": "https://apps.apple.com/eg/app/tiamo/id6450000958",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.shopx.tiamoApp",
@@ -36,6 +37,7 @@
       },
       {
         "project_name": "Aziz",
+        "subtitle": "Aziz Store sells a variety products",
         "description": "Aziz Store sells a variety products in KSA",
         "appstore_link": "",
         "play_store_link": "",
@@ -80,6 +82,7 @@
       },
       {
         "project_name": "Dice Underwear",
+        "subtitle": "E-Commerce App for Dice",
         "description": "E-Commerce App for a well-known brand of cotton clothing",
         "appstore_link": "",
         "play_store_link": "",
@@ -107,6 +110,7 @@
       },
       {
         "project_name": "Sahla",
+        "subtitle": "Sahla is an online store",
         "description": "Sahla is an online store specialized on selling different categories of products.",
         "appstore_link": "",
         "play_store_link": "",
@@ -127,6 +131,7 @@
       },
       {
         "project_name": "Tqneen",
+        "subtitle": "online legal service",
         "description": "Tqneen is online legal service Provides legal advice to citizens",
         "appstore_link": "https://apps.apple.com/eg/app/tqneen/id1626718222",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.tqneen.app",
@@ -147,7 +152,8 @@
       },
       {
         "project_name": "Tqneen lawyer",
-        "description": "gives experts the ability to manage consultations with new clients, and simple communication.",
+        "subtitle": "online legal service (lawyers)",
+        "description": "gives experts the ability to manage consultations with new clients, and simple communication.\n It's like a freelancing for lawyers",
         "appstore_link": "https://apps.apple.com/eg/app/tqneen-lawyer/id1636884935",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.tqneen.lawyer",
         "cover": "https://i.ibb.co/HKs8FRY/cover.png",
@@ -167,6 +173,7 @@
       },
       {
         "project_name": "Sabon For Users",
+        "subtitle": "Car wash service App",
         "description": "Car wash service for users through many packages",
         "appstore_link": "",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.marketune.sabouneh",
@@ -213,6 +220,7 @@
       },
       {
         "project_name": "Sabon For Washers",
+        "subtitle": "Service Provider for user app",
         "description": "The service provider who performs laundry through requests or a map",
         "appstore_link": "",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.marketune.sabouneh_washer",
@@ -245,6 +253,7 @@
       },
       {
         "project_name": "Ristecho Restaurant",
+        "subtitle": "Restaurant POS with Seven apps",
         "description": "Restaurant POS with Seven apps.\n• KDS App (kitchen display system)\n• Notifier App\n• cashier App\n• subcashier app\n• waiter app\n• menu app\n• customer app\n• subcashier app\n• waiter app\n• menu app\n• customer app",
         "appstore_link": "",
         "play_store_link": "",
@@ -267,6 +276,7 @@
       },
       {
         "project_name": "Cascade",
+        "subtitle": "application to provide loans",
         "description": "application to provide loans based on known reasons in KSA",
         "appstore_link": "",
         "play_store_link": "",
@@ -294,6 +304,7 @@
       },
       {
         "project_name": "it's quran",
+        "subtitle": "islamic app",
         "description": "provide audio, video, books material for it's quran app",
         "appstore_link": "",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.midad.its_quran",
