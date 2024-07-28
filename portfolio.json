@@ -13,7 +13,7 @@
     "subtitle": "Here are some of the selected projects that showcase my passion for Mobile Application development.",
     "my_projects": [
       {
-        "project_name": "Tiamo Egypt",
+        "project_name": "Tiamo",
         "subtitle": "women clothes brand (E-Commerce)",
         "description": "E-Commerce App for selling women clothes online",
         "appstore_link": "https://apps.apple.com/eg/app/tiamo/id6450000958",
@@ -81,7 +81,7 @@
         "project_video": "https://www.youtube.com/watch?v=uMUsKxb1ObA"
       },
       {
-        "project_name": "Dice Underwear",
+        "project_name": "Dice",
         "subtitle": "E-Commerce App for Dice",
         "description": "E-Commerce App for a well-known brand of cotton clothing",
         "appstore_link": "",
@@ -151,7 +151,7 @@
         "project_video": ""
       },
       {
-        "project_name": "Tqneen lawyer",
+        "project_name": "Lawyer",
         "subtitle": "online legal service (lawyers)",
         "description": "gives experts the ability to manage consultations with new clients, and simple communication.\n It's like a freelancing for lawyers",
         "appstore_link": "https://apps.apple.com/eg/app/tqneen-lawyer/id1636884935",
@@ -172,7 +172,7 @@
         "project_video": ""
       },
       {
-        "project_name": "Sabon For Users",
+        "project_name": "Sabon Users",
         "subtitle": "Car wash service App",
         "description": "Car wash service for users through many packages",
         "appstore_link": "",
@@ -219,7 +219,7 @@
         "project_video": "https://www.youtube.com/watch?v=apciqSxdi6k"
       },
       {
-        "project_name": "Sabon For Washers",
+        "project_name": "Sabon Washers",
         "subtitle": "Service Provider for user app",
         "description": "The service provider who performs laundry through requests or a map",
         "appstore_link": "",
