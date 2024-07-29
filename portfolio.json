@@ -14,7 +14,7 @@
     "my_projects": [
       {
         "project_name": "Tiamo",
-        "subtitle": "women clothes brand (E-Commerce)",
+        "subtitle": "Clothes brand (E-Commerce)",
         "description": "E-Commerce App for selling women clothes online",
         "appstore_link": "https://apps.apple.com/eg/app/tiamo/id6450000958",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.shopx.tiamoApp",
@@ -37,7 +37,7 @@
       },
       {
         "project_name": "Aziz",
-        "subtitle": "Aziz Store sells a variety products",
+        "subtitle": "Aziz Store (E-Commerce)",
         "description": "Aziz Store sells a variety products in KSA",
         "appstore_link": "",
         "play_store_link": "",
@@ -253,7 +253,7 @@
       },
       {
         "project_name": "Ristecho",
-        "subtitle": "Restaurant POS with Seven apps",
+        "subtitle": "Restaurant POS (Seven apps)",
         "description": "Restaurant POS with Seven apps.\n• KDS App (kitchen display system)\n• Notifier App\n• cashier App\n• subcashier app\n• waiter app\n• menu app\n• customer app\n• subcashier app\n• waiter app\n• menu app\n• customer app",
         "appstore_link": "",
         "play_store_link": "",
@@ -276,7 +276,7 @@
       },
       {
         "project_name": "Cascade",
-        "subtitle": "application to provide loans",
+        "subtitle": "Provides financial services",
         "description": "application to provide loans based on known reasons in KSA",
         "appstore_link": "",
         "play_store_link": "",
