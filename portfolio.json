@@ -409,6 +409,7 @@
       "Rest APIS",
       "Bloc",
       "Streams",
+      "Websockets",
       "getx",
       "payment",
       "isolate",
