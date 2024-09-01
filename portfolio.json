@@ -251,6 +251,37 @@
         ],
         "project_video": "https://www.youtube.com/watch?v=rdDbgWZTH3M"
       },
+      
+      {
+        "project_name": "Niat Clinics",
+        "subtitle": "Clinics manager",
+        "description": "Niyat clinics app for managing group of clinics.\n• Book Appointments.\n• Patient record.\n• Follow Patients.\n• Mini dashboard for doctors.",
+        "appstore_link": "",
+        "play_store_link": "",
+        "cover": "https://i.imgur.com/juY1dK5.jpg",
+        "project_images": [
+          "https://i.imgur.com/1vmSn9C.jpg",
+          "https://i.imgur.com/Klx5fLQ.jpg",
+          "https://i.imgur.com/DufgqMR.jpg",
+          "https://i.imgur.com/QbvL08W.jpg",
+          "https://i.imgur.com/3UdU9ru.jpg",
+          "https://i.imgur.com/XCOrr0y.jpg",
+          "https://i.imgur.com/Tjwp3mw.jpg",
+          "https://i.imgur.com/cSNcvrZ.jpg",
+          "https://i.imgur.com/xvFtCLD.jpg",
+          "https://i.imgur.com/iOXKgdO.jpg",
+          "https://i.imgur.com/3zHidQC.jpg",
+          "https://i.imgur.com/MMNsGh3.jpg",
+          "https://i.imgur.com/cHUIKQS.jpg",
+          "https://i.imgur.com/grxASeE.jpg",
+          "https://i.imgur.com/Ks6oUik.jpg",
+          "https://i.imgur.com/KPX2qYq.jpg",
+          "https://i.imgur.com/XYd1jT4.jpg",
+          "https://i.imgur.com/Pe8YbZW.jpg",
+          "https://i.imgur.com/zCH7RQM.jpg"
+        ],
+        "project_video": ""
+      },
       {
         "project_name": "Ristecho",
         "subtitle": "Restaurant POS (Seven apps)",
